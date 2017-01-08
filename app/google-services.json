@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "429009920537",
+    "firebase_url": "https://sukapulsa-86789.firebaseio.com",
+    "project_id": "sukapulsa-86789",
+    "storage_bucket": "sukapulsa-86789.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429009920537:android:1c407791d9a9cc94",
+        "android_client_info": {
+          "package_name": "com.rubahapi.sukapulsa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429009920537-487vm5s06hm044a1d76tfqd4fjmjm92b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rubahapi.sukapulsa",
+            "certificate_hash": "A858F849C7AE893AFCE481BCACC1305F335AD8A9"
+          }
+        },
+        {
+          "client_id": "429009920537-fvc21mjtgptirseiivo0aq0jbjibi18v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhvZaoy06zFm-LvMRAt5hfeo2IkzW1Bkw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429009920537-fvc21mjtgptirseiivo0aq0jbjibi18v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
